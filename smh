@@ -1,5 +1,7 @@
 Client=0.30
 ClientLink=https://drive.google.com/file/d/1ZcMRrnGbnhEclWQQHTZFwuTeak-ColUi/view?usp=sharing
+NEWS,Newer Header Text Here,Paragraph text goes here,August 5th, 2020,Unravel
+NEWS,Header Text Here,Paragraph text goes here,August 2nd, 2020,Fish
 World 1,US,193.25.215.139,12919
 World 2,US,193.25.215.139,12920
 Local,none,localhost,12919
