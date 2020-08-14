@@ -1,6 +1,6 @@
 Client=0.36
 ClientLink=https://drive.google.com/file/d/1ZcMRrnGbnhEclWQQHTZFwuTeak-ColUi/view?usp=sharing
 NEWS=Welcome to the TitanReach Stress Test!=First we’d like to thank you for joining and participating in this stress test! We will be pushing the servers to their limits to track their stability. Server crashes are to be expected. We will be hosting Playtests in the near future (around Kickstarter release). This performance will not reflect the performance you should expect at launch. \n \n - Use the discord  #bug-reports & #suggestion-box for any issues/ideas.  \n - Combat is currently placeholder and will be heavily reworked.\n - Temporarily removed certain options from the character creator for optimization.\n - Certain Game elements are mid-development or a work in progress. This may lead to certain mismatches such as the UI (Interface), features not being polished (Tutorial) which will be receiving a rework.\n - Your progress will not be saved. \n - What is shown in the stress test is a very small slice of what will be available upon release.\n\nAny chat spamming, racism/sexism or heavy use of vulgar language, including vulgar names will result in being banned from the stress test.\n\nFeel free to join the Voice Chat to chat, play through the Tutorial, skill, fight and enjoy the game!\n - Square Root Studios\n\n\n=August 15th, 2020=Trickzbunny
-World 1,US,193.25.215.139,12919,200
-World 2,US,193.25.215.139,12920,50
-Local,none,localhost,12919,50
+World 1,US,40.71.234.165,24150,1000
+World 2,US,193.25.215.139,12920,500
+World 3,AU,localhost,12919,200
