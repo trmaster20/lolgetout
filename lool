@@ -2,11 +2,5 @@ Client=0
 ClientLink=
 NEWS=Stress Test Incoming!=Keep an eye out, Reachers!=August 20th, 2020=Unravel
 World 1,US,193.25.215.139,25022,500
-World 2,US,52.149.246.249,24150,250
-World 3,AU,20.53.124.23,24150,250
-World 4,FI,40.67.248.24,24150,250
-World 5,GB,20.49.152.81,24160,250
-World 6,AU,20.193.62.118,24160,250
-World 8,US,world8.eastus.azurecontainer.io,24555,500
-World 11,US,world11.westus.azurecontainer.io,21443,400
+World 2,US,world1.eastus.azurecontainer.io,21443,150
 Local,US,localhost,12919,1000
