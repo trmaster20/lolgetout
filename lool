@@ -1,6 +1,6 @@
 Client=0
 ClientLink=
-NEWS=IMPORTANT! Read Below=This stress test will have persistence (saving/loading). \n\nTo register an account simply log in with the username and password you want, if its available it will create it and log you in. Only use alpha-numeric characters.\n\nAll progress will be wiped with the launch of our Kickstarter!=August 20th, 2020=Unravel
+NEWS=IMPORTANT! Read Below=This stress test will have Accounts/Saving. To register an account, simply log in with the username and password you want. If it's available it will create it and log you in. Only use alpha-numeric characters. All progress will be wiped with the launch of our Kickstarter!=August 22nd, 2020=Unravel
 World 1,US,world1.eastus.azurecontainer.io,21300,150
 World 2,US,world2.eastus.azurecontainer.io,21400,150
 World 3,US,world3.eastus.azurecontainer.io,21500,150
