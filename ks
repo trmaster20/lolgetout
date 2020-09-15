@@ -11,7 +11,7 @@ World 7,SG,world7.eastus.azurecontainer.io,22506,100
 World 8,SE,world8.northeurope.azurecontainer.io,22507,100
 World 9,FI,world9.northeurope.azurecontainer.io,22508,100
 World 10,FR,world10.francecentral.azurecontainer.io,22509,100
-World 11,FR,world11.francecentral.azurecontainer.io,22510,100
+World 11,US,world11.eastus.azurecontainer.io,22510,100
 World 12,AU,world12.australiaeast.azurecontainer.io,22511,100
 World 13,JP,world13.japaneast.azurecontainer.io,22512,100
 Local,US,localhost,12919,1000
