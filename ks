@@ -1,6 +1,6 @@
-Client=60
-ClientLink=https://drive.google.com/file/d/1-XUWWVDEpMxhpnaoGzA0uH4gZqkYJmzR/view?usp=sharing
-NEWS=Kickstarter is HERE=Back us on Kickstarter or we will delete your roblox account.=15th September, 2020=Unravel
+Client=61
+ClientLink=https://drive.google.com/file/d/1G1TFhhifglP_c59KYK72a8PBbOsAKs_6/view?usp=sharing
+NEWS=Patch #01 Update - Bug Fixing & Improvements=We've released a patch for the demo to include some fixes to your most reported issues via our Discord, along with some new quality of life updates, and additional new features for you to explore.   Thank you for all your support so far with our campaign, in order to succeed we will need your continued enthusiasm. Tell your friends, family, and others about TitanReach so we can meet our Kickstarter goal!=21st September, 2020=Shuu
 World 1,US,world1.eastus.azurecontainer.io,22500,100
 World 2,US,world2.westus.azurecontainer.io,22501,100
 World 3,NL,world3.westeurope.azurecontainer.io,22502,100
