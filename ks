@@ -21,4 +21,5 @@ World 17,US,world17.westus2.azurecontainer.io,22516,100
 World 18,US,world18.westus2.azurecontainer.io,22517,100
 World 19,BR,world19.brazilsouth.azurecontainer.io,22518,100
 World 20,IN,world20.centralindia.azurecontainer.io,22519,100
+Dev World,IN,world150.eastus.azurecontainer.io,21400,100
 Local,US,localhost,12919,1000
