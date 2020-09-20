@@ -8,7 +8,7 @@ World 4,AU,world4.australiaeast.azurecontainer.io,22503,100
 World 5,GB,world5.uksouth.azurecontainer.io,22504,100
 World 6,CA,world6.canadacentral.azurecontainer.io,22505,100
 World 7,SG,world7.southeastasia.azurecontainer.io,22506,100
-World 8,SE,world8.northeurope.azurecontainer.io,22507,100
+World 8,BR,world8.brazilsouth.azurecontainer.io,22507,100
 World 9,FI,world9.northeurope.azurecontainer.io,22508,100
 World 10,FR,world10.francecentral.azurecontainer.io,22509,100
 World 11,US,world11.eastus.azurecontainer.io,22510,100
