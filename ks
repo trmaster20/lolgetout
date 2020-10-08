@@ -1,6 +1,6 @@
-Client=61
-ClientLink=https://drive.google.com/file/d/1G1TFhhifglP_c59KYK72a8PBbOsAKs_6/view?usp=sharing
-NEWS=Patch #01 Update - Bug Fixing & Improvements=We've released a patch for the demo to include some fixes to your most reported issues via our Discord, along with some new quality of life updates, and additional new features for you to explore.   Thank you for all your support so far with our campaign, in order to succeed we will need your continued enthusiasm. Tell your friends, family, and others about TitanReach so we can meet our Kickstarter goal!=21st September, 2020=Shuu
+Client=62
+ClientLink=https://drive.google.com/file/d/1As-zfpq7-H22GEQWt9IuT2Y52uQpl2eG/view?usp=sharing
+NEWS=Patch #02=Welcome to Patch 2. Please read Discord for all the patch notes.=8th October, 2020=Unravel
 World 1,US,world1.eastus.azurecontainer.io,22500,100
 World 2,US,world2.westus.azurecontainer.io,22501,100
 World 3,NL,world3.westeurope.azurecontainer.io,22502,100
