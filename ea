@@ -3,4 +3,4 @@ ClientLink=
 NEWS=Dev Build=This is the Early Access client in developer mode.=30th Jan, 2020=Unravel
 World 1 (Dev),US,207.244.244.82,22502,125
 World 10,US,52.151.229.3,5010,125
-Local,US,192.168.0.28,12919,1000
+Local,US,localhost,12919,1000
